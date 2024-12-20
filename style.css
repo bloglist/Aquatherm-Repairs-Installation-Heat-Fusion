@@ -110,6 +110,7 @@ nav.nav-menu {
     padding-top: 5px;
     padding-right: 80px;
     padding-left: 5px;
+    
     color: #000000;
   }
   a {
@@ -180,10 +181,7 @@ nav.nav-menu {
    padding-right: 15px;
    margin-left: 50px;
    margin-right: 40px;
-   width: 55%;
-   opacity: .5;
    color: #000000;
-   background-color: #fdcd47;
   }
   h4 {
     font-size: 20px;
